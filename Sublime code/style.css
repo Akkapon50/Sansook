@@ -1,0 +1,107 @@
+html, body{
+    background-color: pink;
+    margin: 0%;
+    padding: 0%;
+    border: 10px solid plum;
+}
+
+.top-hander{
+    background-color: rgb(253, 177, 189);
+}
+
+.menu-item{
+    font-family: cursive;
+    color: wheat;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.brand{
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.main-content{
+    max-width: 700px;
+    margin: auto;
+}
+
+.box{
+    background-color: wheat;
+    padding: 20px;
+    margin: 30px;
+}
+
+.image{
+    width: 100%;
+}
+
+.button{
+    color: black;
+    background-color: plum;
+    padding: 10px;
+    text-decoration: none;
+    display: inline;
+}
+
+.bottom-footer{
+    padding: 30px;
+    background-color: rgb(253, 177, 189);
+}
+
+.marq{
+    direction="right"
+    loop=""
+    padding: 30px;
+    display: inline-block;
+}
+
+.font{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 1000;
+}
+
+.story{
+    text-align: center;
+    font-size: 15px;
+    background-color:wheat ;
+    padding: 20px;
+    margin: 30px;
+    border: 20px solid rgb(252, 220, 160);
+
+}
+
+.image1{
+    background-color: wheat;
+    padding: 20px;
+    margin: 30px;
+    width: 50%;
+}
+
+.head{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    background-color: rgb(255, 153, 170);
+    padding: 20px;
+    width: 40%;
+}
+
+.headstory{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: plum;
+    padding: 25px;
+    font-size: 70px;
+}
+
+.char{
+    font-size: 25px;
+    text-align: left;
+    font-style: normal;
+    color: rgb(5, 60, 141);
+}
+
+
